@@ -4,3 +4,4 @@ Feito com a intenção de praticar alguns conhecimentos adquiridos no curso de R
 
 Projeto com deploy realizado no netlify, cujo link está logo abaixo.
 
+https://aquamarine-faun-958a70.netlify.app/
